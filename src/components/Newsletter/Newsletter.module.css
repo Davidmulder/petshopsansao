@@ -1,0 +1,94 @@
+.newsletter-container {
+    display: flex;
+    justify-content: center; /* Centraliza o componente na página */
+    align-items: center;
+    /* height: 100vh;  Ocupa a altura total da viewport */
+    margin: 10px 0; /* Reduzindo a margem acima e abaixo */
+    padding: 20px;
+  }
+  
+  .newsletter-content {
+    display: flex;
+    flex-direction: row; /* Elementos em linha (texto à esquerda, imagem à direita) */
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9; /* Cor de fundo para o bloco da newsletter */
+    border-radius: 10px;
+    padding: 40px;
+    max-width: 800px;
+    width: 100%; /* Responsividade */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .newsletter-text {
+    flex: 1; /* O conteúdo de texto ocupa a maior parte */
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: row; /* Campo de e-mail e botão lado a lado */
+  }
+  
+  .email-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 70%; /* O campo de e-mail ocupa 70% da largura */
+    margin-right: 10px; /* Espaçamento entre o campo de e-mail e o botão */
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
+  .newsletter-image {
+    margin-left: 20px;
+  }
+  
+  .newsletter-image img {
+    max-width: 200px; /* Tamanho máximo da imagem */
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .newsletter-content {
+      flex-direction: column; /* Empilha o texto e a imagem em telas pequenas */
+    }
+  
+    .newsletter-image {
+      margin-left: 0;
+      margin-top: 20px;
+    }
+  
+    .email-input {
+      width: 100%; /* O campo de e-mail ocupará 100% em telas menores */
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  
+    form {
+      flex-direction: column; /* Empilha o campo de e-mail e o botão em telas menores */
+    }
+  }
+  

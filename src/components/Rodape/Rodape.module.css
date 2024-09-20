@@ -1,0 +1,13 @@
+.social-icons a {
+    margin: 0 10px; /* Espaçamento horizontal entre os ícones */
+    text-decoration: none; /* Remove sublinhado dos links */
+  }
+  
+  .social-icons i {
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover i {
+    color: #007bff; /* Altera a cor no hover, pode ser qualquer cor */
+  }
+  

@@ -1,11 +1,11 @@
 import React from "react";
-import logoMeteora from "/assets/images/logo-meteora.png";
+import logopet from "/assets/images/logo-nome.png";
 
 const Logo = () => {
   return (
-    <a className="navbar-brand" href="#">
-      <h1 className="m-0">
-        <img className="d-block" src={logoMeteora} alt="Logo da loja Meteora" />
+    <a className="navbar-brand" href="#">      
+      <h1 className="m-0">       
+        <img className="d-block" src={logopet} alt="Logo da sansão pet" width="133px" />
       </h1>
     </a>
   );

@@ -6,7 +6,7 @@ import Titulo from "@/components/Titulo";
 const Categorias = () => {
   return (
     <section role="categorias" aria-label="Busque por categoria:">
-      <Titulo>Busque por categoria:</Titulo>
+      <Titulo>Categorias populares:</Titulo>
 
       <div className="container row mx-auto mb-5 g-4">
         {categorias.map((categoria) => (

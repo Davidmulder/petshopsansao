@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "src": "/assets/images/produtos/camiseta.png",
-    "alt": "Modelo masculo vestindo touca preta, blusa marrom e calça jeans, com uma parede cinza de fundo.",
-    "titulo": "Camiseta conforto",
-    "descricao": "Multicores e tamanhos. Tecido de algodão 100% fresquinho.",
-    "preco": 70.0
+    "src": "/assets/images/produtos/01.webp",
+    "alt": "Ração Úmida Pedigree Sachê",
+    "titulo": "Ração Úmida Pedigree Sachê Cães Adultos Raças Pequenas – Carne ao Molho 100g",
+    "descricao": "Ração Úmida Cães Adultos Raças Pequenas é um o delicioso sachê PEDIGREE. ​Um alimento 100% completo e balanceado, feito com Vitamina",
+    "preco": 45.0
   },
   {
     "id": 2,
-    "src": "/assets/images/produtos/calca.png",
-    "alt": "Modelo feminina vestindo blusa marrom, calça bege, par de sapatos altos na cor branca, cordão e pulseira, em um ambiente aberto com chão de terra e matos secos.",
-    "titulo": "Calça Alfaiataria",
-    "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça para vida toda!",
-    "preco": 180.0
+    "src": "/assets/images/produtos/02.webp",
+    "alt": "Orelha Bovina Para Cães ",
+    "titulo": "Orelha Bovina Para Cães Bonapet 1 Unidade",
+    "descricao": "Orelha Natural BonaPet é feita de maneira 100% natural, tem alto valor proteico e nutritivo, não tem conservantes e é de fácil digestão.",
+    "preco": 5.94
   },
   {
     "id": 3,
-    "src": "/assets/images/produtos/tenis.png",
-    "alt": "Foco nos pés de modelo usando par de tênis e meia na cor branca, e calça na cor preta, pisando em uma poça de água.",
-    "titulo": "Tênis Chunky",
-    "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
-    "preco": 250.0
+    "src": "/assets/images/produtos/03.webp",
+    "alt": "Ração Úmida GranPlus",
+    "titulo": "Ração Úmida GranPlus Gourmet Sachê Cães Adultos – Ovelha 100g",
+    "descricao": "A Ração Umida GranPlus Gourmet Cães Adultos Ovelha é cozida a vapor e satisfaz os paladares mais exigentes, conta com prebiótico MOS, que auxilia na saúde intestinal, Ômega 6, zinco e vitamina A, que contribuem para saúde da pele e do pelo.",
+    "preco": 2.84
   },
   {
     "id": 4,
-    "src": "/assets/images/produtos/jaqueta-jeans.png",
-    "alt": "Modelo masculino vestindo toca e calça na cor preta, jaqueta jeans azul, blusa branca e cordão dourado, em um fundo branco.",
-    "titulo": "Jaqueta Jeans",
-    "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
-    "preco": 150.0
+    "src": "/assets/images/produtos/04.webp",
+    "alt": "Osso Natural Treats",
+    "titulo": "Osso Natural Treats Esôfago Para Cães Bonapet 5 Unidades",
+    "descricao": "O Osso Esôfago Desidratado BonaPet é feito de forma 100% natural, o seu pet passará mais tempo distraído, saudável, de fácil digestão, com alto valor proteico e nutritivo, auxilia no controle do tártaro e melhora o hálito do seu cão.",
+    "preco": 13.60
   },
   {
     "id": 5,
-    "src": "/assets/images/produtos/oculos.png",
-    "alt": "Modelo masculino com blusa branca e um par de óculos de lentes transparentes arredondadas, utilizando um notebook, com um cachorro poodle branco no seu colo, e em um fundo branco.",
-    "titulo": "Óculos Redondo",
-    "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
-    "preco": 120.0
+    "src": "/assets/images/produtos/05.webp",
+    "alt": "Ração Úmida Optimum",
+    "titulo": "Ração Úmida Optimum Sachê Gatos Castrados Frango 85g",
+    "descricao": "Elaborado com frango e fibras naturais, que ajudam a manter uma digestão equilibrada e saudável, o Sachê Optimum Gatos Castrados é uma solução completa com os cuidados que o seu pet precisa aliado a uma excelente alimentação.",
+    "preco": 2.75
   },
   {
     "id": 6,
-    "src": "/assets/images/produtos/bolsa.png",
-    "alt": "Cintura, pernas e pés de modelo feminina vestindo sobretudo de cor predominante bege com detalhes em tom vermelho e escuro, com calça e par de sapatos na cor preta, segurando bolsa na cor bege, com fundo de prédio.",
-    "titulo": "Bolsa coringa",
-    "descricao": "Bolsa camel em couro sintético de alta duração. Perfeita!",
-    "preco": 120.0
+    "src": "/assets/images/produtos/06.webp",
+    "alt": "Osso Rótula Bovina ",
+    "titulo": "Osso Rótula Bovina Para Cães Bonapet",
+    "descricao": "A Rótula Bovina Bona Pet é feita de maneira 100% natural, com alto valor proteico e nutritivo, sem conservantes e de fácil digestão.",
+    "preco": 6.45
   }
 ]

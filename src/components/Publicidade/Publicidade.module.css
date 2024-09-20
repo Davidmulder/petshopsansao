@@ -1,0 +1,31 @@
+.publicidade-container {
+    display: flex;
+    justify-content: center; /* Centraliza os banners horizontalmente */
+    align-items: center; /* Alinha verticalmente no centro */
+    gap: 20px; /* Espaço entre os banners */
+    margin: 20px 0; /* Margem acima e abaixo */
+    width: 100%; /* Garante que o contêiner ocupe toda a largura */
+  }
+  
+  .banner {
+    max-width: 500px; /* Defina um limite de largura para as imagens */
+    flex: 1; /* Assegura que os banners se ajustem dentro do container */
+  }
+  
+  .banner img {
+    width: 100%; /* As imagens ocuparão 100% da largura do banner */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 8px; /* Bordas arredondadas */
+  }
+  
+  @media (max-width: 768px) {
+    .publicidade-container {
+      flex-direction: column; /* Empilha os banners na versão mobile */
+    }
+  
+    .banner {
+      width: 100%; /* Na versão mobile, cada banner ocupará 100% */
+      margin-bottom: 20px; /* Espaço entre banners na versão mobile */
+    }
+  }
+  
