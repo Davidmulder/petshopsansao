@@ -1,68 +1,92 @@
-![Meteora](thumbnail.png)
+<h1 align="center">
+<br>
+  <img src="img/logo lateral.png"  width="300">
+<br>
+<br>
+Sansão PET
+</h1>
 
-# Meteora - E-commerce de Moda
+<p align="center">
+Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . E Loja Não REal onde foi usada pratica de tecnologia REACT com bilioteca. Diferencie o Vite do CRA e conheça as vantagens do uso do Styled Components
+Utilize styled-components para criação de uma NavBar e estilização de um banner
+Projete e implemente componentes React para exibir imagens e legendas
+Aplique estilos personalizados e acessíveis para uma galeria de fotos
+Adicione uma barra lateral de imagens populares e footer</p>
 
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-![GIF da aplicação em execução](meteora-app.gif)
+<div align="center">
 
-## 🔨 Funcionalidades do projeto
+### Apresentação
 
-Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcionalidades:
+<img src="img/theproblens.gif" alt="web" align="center" width="525"><br>
 
-- Adicionar itens ao carrinho
-- Remover itens do carrinho
-- Visualizar a página do carrinho
-- Deletar itens do carrinho
+### Home
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
 
-## ✔️ Técnicas e tecnologias utilizadas
+  <img src="img/home.png" alt="web" align="center" width="525"><br>
 
-O projeto Meteora utiliza as seguintes tecnologias e bibliotecas:
+  <img src="img/home2.png" alt="web" align="center" width="525"><br>
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `JavaScript` - Linguagem de programação principal
-- `Context API` - Para gerenciamento de estado
-- `useReducer` - Para controle de estado
-- `useMemo` - Para otimização de desempenho
-- `Bootstrap` - Framework de design e componentes
+  ### Pagina inteira
 
-## 🛠️ Abrir e rodar o projeto
+  <img src="img/inteira.png" alt="web" align="center" width="525"><br>
 
-Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
+   ### Carinho de compra
 
-1. Certifique-se de ter o Node.js instalado em sua máquina.
+  <img src="img/carrinho.png" alt="web" align="center" width="525"><br>
+  
+  <br> 
 
-2. Baixe o repositório do projeto:
+</div>
 
-3. Extraia os arquivos para uma pasta de sua preferência.
+ ### Hospedagem 
+```sh
+ vercel
 
-4. Navegue até a pasta em questão via terminal (cmd):
+ https://petshopsansao.vercel.app/
 
-```bash
-cd repo-meteora
+```
+ ### Objetivos
+```sh
+ Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . E Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca.
+
 ```
 
-5. Instale as dependências usando o npm:
 
-```bash
-npm install
+<hr />
+
+## Tecnologia usada
+
+```sh
+ o Vite do CRA e conheça as vantagens do uso do Styled Components
+Utilize styled-components para criação de uma NavBar e estilização de um banner
+Projete e implemente componentes React para exibir imagens e legendas
+Aplique estilos personalizados e acessíveis para uma galeria de fotos
+Adicione uma barra lateral de imagens populares e footer 
+ 
 ```
 
-6. Inicie o projeto localmente:
+Usado do php puro, no servidor linux 
 
-```bash
-npm run dev
-```
+- ⚛️ **Javascript** — json
+- ⚛️ **React** — 
+de usuario
+- 💹 **JQuery** — Animações
 
-7. Abra seu navegador e acesse a url exibida no seu terminal para visualizar o projeto.
 
-## 📚 Mais informações do projeto
 
-O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
 
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
+## Modelos
 
-Aproveite o desenvolvimento e aprimoramento do Meteora!
+
+1. Modelo apenas ilustratorio<br />
+
+
+
+
+
