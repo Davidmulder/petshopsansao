@@ -3,15 +3,11 @@
   <img src="img/logo lateral.png"  width="300">
 <br>
 <br>
-Sansão PET
+🐾 Sansão PET - Meu Melhor Amigo 🐕‍🦺
 </h1>
 
 <p align="center">
-Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . E Loja Não REal onde foi usada pratica de tecnologia REACT com bilioteca. Diferencie o Vite do CRA e conheça as vantagens do uso do Styled Components
-Utilize styled-components para criação de uma NavBar e estilização de um banner
-Projete e implemente componentes React para exibir imagens e legendas
-Aplique estilos personalizados e acessíveis para uma galeria de fotos
-Adicione uma barra lateral de imagens populares e footer</p>
+Sansão PET é um modelo de e-commerce fictício para um PET SHOP, oferecendo uma ampla gama de produtos e acessórios para animais de estimação. Este projeto foi desenvolvido para praticar o uso de React e explorar diferentes tecnologias front-end modernas, como Vite, Styled Components, e melhores práticas de design de componentes.</p>
 
 <p align="center">
   <a href="#">
@@ -20,13 +16,7 @@ Adicione uma barra lateral de imagens populares e footer</p>
 </p>
 
 <div align="center">
-
-### Apresentação
-
-<img src="img/theproblens.gif" alt="web" align="center" width="525"><br>
-
 ### Home
-
 
   <img src="img/home.png" alt="web" align="center" width="525"><br>
 
@@ -51,40 +41,51 @@ Adicione uma barra lateral de imagens populares e footer</p>
  https://petshopsansao.vercel.app/
 
 ```
- ### Objetivos
+ ### 📖 Descrição do Projeto
 ```sh
- Sansão PET e modelo de E-commerc em PET SHOP, com produtos e acessorios e . E Loja Não REAL onde foi usada pratica de tecnologia REACT com bilioteca.
+ Este projeto simula uma loja online para pets, focando na exibição de produtos, acessórios e promoções. Além disso, ele se destaca por apresentar boas práticas de estilização e otimização no desenvolvimento de Single Page Applications (SPA).
+
+Tecnologias utilizadas:
+React - Framework JavaScript para construção da interface de usuário.
+Vite - Ferramenta de build e desenvolvimento mais rápida que o CRA (Create React App).
+Styled Components - Biblioteca para estilização em CSS, dentro do JS.
 
 ```
-
-
 <hr />
 
-## Tecnologia usada
+## 🚀 Principais Funcionalidades
 
 ```sh
- o Vite do CRA e conheça as vantagens do uso do Styled Components
-Utilize styled-components para criação de uma NavBar e estilização de um banner
-Projete e implemente componentes React para exibir imagens e legendas
-Aplique estilos personalizados e acessíveis para uma galeria de fotos
-Adicione uma barra lateral de imagens populares e footer 
+ NavBar Estilizada: Utilizando Styled Components, criamos uma NavBar moderna e responsiva para navegação entre as páginas da loja.
+
+Banner de Destaque: Implementação de um banner promocional estilizado com Styled Components, oferecendo uma maneira fácil de personalizar banners dinâmicos.
+
+Galeria de Produtos: Apresenta uma galeria interativa de produtos com imagens, descrições e preços, tudo otimizado com componentes reutilizáveis do React.
+
+Barra Lateral de Imagens Populares: Uma barra lateral destacando os produtos mais populares entre os clientes, fornecendo uma experiência visual atraente.
+
+Footer Informativo: Um rodapé com informações da loja, links úteis e redes sociais
  
 ```
 
-Usado do php puro, no servidor linux 
+🛠️ Tecnologias e Ferramentas
 
-- ⚛️ **Javascript** — json
-- ⚛️ **React** — 
-de usuario
-- 💹 **JQuery** — Animações
-
-
-
-
-## Modelos
+React: Para construção de componentes.<br>
+Vite: Para otimização e build do projeto.<br>
+Styled Components: Para a estilização dos componentes de forma modular e dinâmica.<br>
+JavaScript (ES6+): Linguagem principal utilizada no projeto.<br>
+HTML5 & CSS3: Marcação e estilização base.<br>
+React Icons: Para inserção de ícones na barra de navegação e rodapé.
 
 
-1. Modelo apenas ilustratorio<br />
+
+
+## Contato
+
+Se tiver alguma dúvida, sinta-se à vontade para entrar em contato:
+
+E-mail: david.foxmulder@gmail.com<br>
+LinkedIn: [David Orion](https://www.linkedin.com/in/davidmuldersilva/)
 
 
 
